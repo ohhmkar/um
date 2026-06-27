@@ -3,7 +3,7 @@ package queue
 import (
 	"testing"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 func sampleTracks(n int) []audio.Track {

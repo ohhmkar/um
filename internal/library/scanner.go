@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"sync"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 // ScanResult is the outcome of scanning a root directory.

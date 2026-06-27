@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 // ---------------------------------------------------------------------------

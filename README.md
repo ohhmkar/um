@@ -54,7 +54,7 @@ go build -o um ./cmd/um
 **Install directly with `go install`:**
 
 ```sh
-go install um/cmd/um@latest
+go install github.com/ohhmkar/um/cmd/um@latest
 ```
 
 ---

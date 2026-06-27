@@ -11,10 +11,10 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"um/internal/audio"
-	"um/internal/config"
-	"um/internal/library"
-	"um/internal/queue"
+	"github.com/ohhmkar/um/internal/audio"
+	"github.com/ohhmkar/um/internal/config"
+	"github.com/ohhmkar/um/internal/library"
+	"github.com/ohhmkar/um/internal/queue"
 )
 
 // ---------------------------------------------------------------------------

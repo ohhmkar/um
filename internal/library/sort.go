@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 // SortByPath sorts tracks lexicographically by their file path. This

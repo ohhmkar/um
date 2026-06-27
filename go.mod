@@ -1,4 +1,4 @@
-module um
+module github.com/ohhmkar/um
 
 go 1.25.6
 

@@ -9,7 +9,7 @@ import (
 
 	"github.com/dhowden/tag"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 // parseTrack opens a file, reads its ID3/Vorbis metadata, and returns

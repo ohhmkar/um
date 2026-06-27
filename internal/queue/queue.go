@@ -7,7 +7,7 @@ package queue
 import (
 	"math/rand"
 
-	"um/internal/audio"
+	"github.com/ohhmkar/um/internal/audio"
 )
 
 // RepeatMode controls what happens after the last track finishes.
