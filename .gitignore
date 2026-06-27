@@ -1,0 +1,42 @@
+# Binaries
+um
+/bin/
+/dist/
+
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test & coverage
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Go workspace
+go.work
+go.work.sum
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.envrc
+
+# Logs and temp files
+*.log
+*.tmp
+/tmp/
+
+PRD.md
+AGENTS.md
