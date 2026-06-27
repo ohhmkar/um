@@ -46,7 +46,7 @@
 **Build from source:**
 
 ```sh
-git clone https://github.com/yourusername/um.git
+git clone https://github.com/ohhmkar/um.git
 cd um
 go build -o um ./cmd/um
 ```
